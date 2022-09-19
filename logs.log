@@ -1,0 +1,6 @@
+DEBUG:csv data:Ya hay un archivo con la misma fecha, voy a eliminar el archivo.
+DEBUG:csv data:descargando la información de https://docs.google.com/spreadsheets/d/1o8QeMOKWm4VeZ9VecgnL8BWaOlX5kdCDkXoAph37sQM/edit#gid=1691373423
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): docs.google.com:443
+DEBUG:urllib3.connectionpool:https://docs.google.com:443 "GET /spreadsheets/d/1o8QeMOKWm4VeZ9VecgnL8BWaOlX5kdCDkXoAph37sQM/edit HTTP/1.1" 200 None
+INFO:csv data:información descargada o actualizada
+INFO:db:ejecutando sql scripts
